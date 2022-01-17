@@ -26,6 +26,10 @@ export default {
         to: "/Confetti",
         title: "Confetti",
       },
+      Snow: {
+        to: "/Snow",
+        title: "Snow",
+      },
     };
     return { links };
   },
